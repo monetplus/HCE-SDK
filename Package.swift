@@ -7,8 +7,8 @@ private class Versions {
     static let CommunicatorFramework = "13.0.0"
     static let CoreUtilities = "6.0.0"
     static let JOSESwift = "3.0.0"
-    static let HcePaymentSdk = "1.0.1"
-    static let HceSdk = "1.0.1"
+    static let HcePaymentSdk = "2.0.0"
+    static let HceSdk = "2.0.0"
     static let ApduCardSdk = "0.0.28"
     static let SecureStorage = "10.0.0"
 }
@@ -17,8 +17,8 @@ private class Checksums {
     static let CommunicatorFramework = "5642be4cd178fa3945a9cd3492647016fef1bc3a1ce7d8595c21f8849c33ebc8"
     static let CoreUtilities = "a18fd8596403f290884b86bc8941f13b9eb06f960d67c9ebfd3e50d5d91b4ffc"
     static let JOSESwift = "f23c30ed15df37820b6674b4b0141312f10cfbcfe48fc123d5adc345d4460902"
-    static let HcePaymentSdk = "4e404bb6c3b00b1a60b08a99e79524e0d68b1bc0e7f52f3176c07925998fe523"
-    static let HceSdk = "9b4e0e38e63ddb1bef99330e9fafd4d250e9766f5426b86f7d72fbcf78750463"
+    static let HcePaymentSdk = "bed17d592f808429216c23fcd05b84ae389089bf897b24631201cb3702c5e7e8"
+    static let HceSdk = "5fc59c23292b2f509f00592fe1043e7d325de333486050fc1c919af121dc4884"
     static let ApduCardSdk = "2e2ebb5f3e53957d4d7ec3fbe388b40bd8f4ba8ff3317bff4311dd758d6df02c"
     static let SecureStorage = "6a705def6060b412aafc1b11e759a75027a064f104ade855b1d29d0ca5fd56b4"
 }
